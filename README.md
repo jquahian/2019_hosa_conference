@@ -7,7 +7,9 @@ _joshua.hiansen@uhnresearch.ca_
 _@jquahian_  
 _@apil_tgh_  
 
-# Links to Resources: [Dropbox Folder](https://www.dropbox.com/sh/h2j806a19g1i2ja/AAD94im0hYKLSRnEhbDLtmk3a?dl=0)
+# Links to Resources:  
+[Dropbox Folder](https://www.dropbox.com/sh/h2j806a19g1i2ja/AAD94im0hYKLSRnEhbDLtmk3a?dl=0)  
+[ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3)
 
 # Special Thanks to:
 
